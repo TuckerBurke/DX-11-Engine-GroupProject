@@ -9,7 +9,11 @@ course shared, my contribution to this project included: the flashlights (attenu
 shader and post-process. I am rebuilding this engine from scratch in another project to include ambient occlusion and to leverage
 RTX cards for real-time lighting.
 ## Navigation 
-[Download and Play](x64/Release/DX11GroupProject.zip)    
+[Download and Play](x64/Release/DX11GroupProject.zip)   
+## Team
+Tucker Burke
+Dennis Slavinky
+Ruben Young
 ## Screenshots
 ![](ScreenCaptures/DX11-Engine.gif?raw=true)
 ![](ScreenCaptures/DX11-Engine2.gif?raw=true)
