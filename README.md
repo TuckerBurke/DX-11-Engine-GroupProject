@@ -11,8 +11,8 @@ RTX cards for real-time lighting.
 ## Navigation 
 [Download and Play](x64/Release/DX11GroupProject.zip)   
 ## Team
-Tucker Burke
-Dennis Slavinky
+Tucker Burke   
+Dennis Slavinky   
 Ruben Young
 ## Screenshots
 ![](ScreenCaptures/DX11-Engine.gif?raw=true)
